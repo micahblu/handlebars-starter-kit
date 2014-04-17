@@ -1,0 +1,21 @@
+{
+  "name": "handlebars lab",
+  "version": "0.0.1",
+  "authors": [
+    "Micah Blu <micahblu@gmail.com>"
+  ],
+  "description": "Testing grounds for Handlebars projects",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1.0",
+    "handlebars": "~1.3.0"
+  }
+}
